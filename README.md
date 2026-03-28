@@ -1,2 +1,3 @@
-# note-taking-app
-Note taking app
+# Note taking app
+
+Simple note taking app
